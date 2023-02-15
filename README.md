@@ -1,1 +1,1 @@
-Task 0.0 Where am i?
+This is a readme file for project 0x03 shell
